@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="WBC 자동 분류 시스템 v5.0", layout="wide")
 
 st.title("🔬 백혈구 자동 분류 및 판독 시스템 (WBC AI Dashboard v5.0)")
-st.markdown("가상 시뮬레이션 데이터를 전면 폐기하고, 실제 원본 폴더의 세포 사진들을 마스터한 앙상블 인공지능 최종 완결판 장비입니다.")
 
 # =======================================================================
 # 💡 사이드바: [v2 오리지널 서식 복원] + [v5 진짜 실제 수치 강제 주입]
